@@ -118,12 +118,12 @@
 }
 
 .ce-their-message-sender {
-  color: hsla(0, 0%, 100%, 0.568) !important;
+  color: hsla(0, 0%, 100%, 0.87) !important;
 }
 
 .ce-their-message-bubble {
-  background-color: #80a7ac !important;
-  color: rgba(255, 255, 255, 0.705) !important;
+  background-color: #139099 !important;
+  color: rgb(255, 255, 255) !important;
 }
 
 /* Chat Settings */
