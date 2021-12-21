@@ -4,7 +4,7 @@ Group Members:
 - Atakan Sağlam - atakan.saglam@ug.bilkent.edu.tr - 21802419
 - Alperen Koca - alperen.koca@ug.bilkent.edu.tr - 21502810
 
-#We have deployed the project from netlify for the test purposes. You may directly access the app using the link below:
+#We have deployed the project from netlify for the test purposes. You may directly access the app from the link below:
 - https://cocky-mclean-a9c8f6.netlify.app/
 
 
